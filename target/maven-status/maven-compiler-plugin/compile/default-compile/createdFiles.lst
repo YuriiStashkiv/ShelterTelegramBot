@@ -1,0 +1,17 @@
+ldubgd\edu\ua\shelter\repo\StreetRepository.class
+ldubgd\edu\ua\shelter\domain\BotUser.class
+ldubgd\edu\ua\shelter\messagesender\MessageSenderImpl.class
+ldubgd\edu\ua\shelter\ShelterApplication.class
+ldubgd\edu\ua\shelter\handlers\Handler.class
+ldubgd\edu\ua\shelter\service\StreetService.class
+ldubgd\edu\ua\shelter\processor\UpdataProcessor.class
+ldubgd\edu\ua\shelter\handlers\MessageHandler.class
+ldubgd\edu\ua\shelter\domain\Position.class
+ldubgd\edu\ua\shelter\botlogic\BotRunmethod.class
+ldubgd\edu\ua\shelter\models\Street.class
+ldubgd\edu\ua\shelter\cache\BotUserCache.class
+ldubgd\edu\ua\shelter\cache\Cache.class
+ldubgd\edu\ua\shelter\messagesender\MessageSender.class
+ldubgd\edu\ua\shelter\processor\Processor.class
+ldubgd\edu\ua\shelter\handlers\CallbackQueryHandler.class
+ldubgd\edu\ua\shelter\service\StreetServiceInterface.class
